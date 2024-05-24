@@ -1,0 +1,8 @@
+
+name: "Faithful Reforged Plugin Mod" 
+version: 0.1
+description: "Plugin mod for Faithful Reforged"
+author: Lord_Kane
+
+master: xcom1
+reservedSpace: 2
